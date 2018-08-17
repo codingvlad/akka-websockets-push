@@ -1,6 +1,6 @@
 # akka-websockets-push
 
-A small playground project for implementing a server that pushes numbers from a fibonacci stream to a websocket client using akka http.
+A small playground project for implementing a light http server that pushes numbers from a fibonacci stream to a websocket client using akka http.
 
 ## Motivation
 
@@ -41,7 +41,7 @@ cd akka-websockets-push
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
+* Version 0.1 Working http server streaming bigints to websocket
 
 ## Authors
 
